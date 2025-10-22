@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: An NLP-based data science project and freelance website development.<br><br>👯 I'm looking to collaborate on: Future projects involving algorithmic trading, specifically C++ and the FIX protocol for high-frequency trading (HFT).<br><br>🤝 I'm looking for help with: A C++ project involving the FIX protocol.<br><br>🌱 I'm currently learning: Python, C++, Spring Boot, AI-driven software development, cloud computing (GCP/AWS), and cybersecurity.<br><br>💬 Ask me about: My past projects in IoT (Internet of Things).<br><br>⚡ Fun fact: I'm passionate about business and entrepreneurship.
+🔭 I'm currently working on: An NLP-based data science project and freelance website development.<br><br>👯 I'm looking to collaborate on: Future projects involving algorithmic trading, specifically C++ and the FIX protocol for high-frequency trading (HFT).<br><br>🤝 I'm looking for help with: A C++ project involving the FIX protocol.<br><br>🌱 I'm currently learning: Python, C++, Spring Boot, AI-driven software development, cloud computing (GCP/AWS), and cybersecurity.<br><br>💬 Ask me about: How things work in silicon valley .<br><br>⚡ Fun fact: I'm passionate about business and entrepreneurship.
 
 
 ## 🌐 Socials:
