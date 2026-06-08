@@ -1,15 +1,12 @@
-```markdown
+# <div align="center">⚡ Rishabh Gupta ⚡</div>
+
 <div align="center">
 
-# Hi 👋, I'm Rishabh Gupta
-
-### 🚀 Developer • Cloud Enthusiast • AI Explorer • Future HFT Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelance+Web+Developer;Python+%7C+C%2B%2B+Developer;Cloud+%26+Cybersecurity+Learner;Building+AI-Powered+Applications;Future+Algorithmic+Trader" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Freelance+Web+Developer;Cloud+%7C+Cybersecurity+Explorer;AI+Driven+Software+Developer;Future+HFT+Engineer;Building+Cool+Things+Everyday..." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mayavi-exe&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mayavi-exe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -17,36 +14,23 @@
 
 # 💫 About Me
 
-🔭 Currently working on **Freelance Website Development**
-
-👯 Looking to collaborate on **Algorithmic Trading & HFT Projects**
-
-🤝 Looking for help with **C++ FIX Protocol Projects**
-
-🌱 Learning:
-
-- Python
-- FastAPI
-- AI Driven Software Development (ADLC)
-- AWS & GCP
-- Cybersecurity
-
-💬 Ask me about:
-
-- Silicon Valley
-- Startups
-- Business
-- Technology
-
-⚡ Fun Fact:
-
-> I love building things that solve real-world problems.
+```text
+╔══════════════════════════════════════════════════════════╗
+║ 🔭 Freelance Website Developer                          ║
+║ 👯 Looking to collaborate on HFT & C++ Projects         ║
+║ 🤝 Seeking help with FIX Protocol                       ║
+║ 🌱 Learning AI, FastAPI, Cloud & Cybersecurity          ║
+║ 💬 Ask me about Startups & Silicon Valley               ║
+║ ⚡ Business + Technology = My Playground                ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://instagram.com/__rishabh.exe">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -58,43 +42,36 @@
 <a href="mailto:therishabhworks@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,gcp,azure,linux,nginx,jenkins,vscode,figma,arduino"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayavi-exe&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayavi-exe&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mayavi-exe&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mayavi-exe&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,fastapi,mongodb,mysql,postgres,docker,git,github,aws,gcp,azure,linux,nginx,jenkins,figma,vscode,arduino&perline=8" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayavi-exe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayavi-exe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mayavi-exe&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -110,29 +87,57 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mayavi-exe/mayavi-exe/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayavi-exe&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
 ---
 
-# ☕ Random Dev Quote
+# 💻 Current Focus
 
-<div align="center">
+```yaml
+Languages:
+  - C++
+  - Python
+  - JavaScript
+  - Java
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+Backend:
+  - FastAPI
+  - Node.js
 
-</div>
+Cloud:
+  - AWS
+  - GCP
+  - Azure
 
----
+Databases:
+  - MongoDB
+  - MySQL
+  - PostgreSQL
 
-<div align="center">
-
-### ⭐ "Code. Build. Learn. Repeat."
-
-</div>
+Currently Building:
+  - Freelance Web Projects
+  - AI Applications
+  - Trading Infrastructure
 ```
+
+---
+
+# ⚡ Developer Philosophy
+
+> "Build things that people actually want to use."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</div>
